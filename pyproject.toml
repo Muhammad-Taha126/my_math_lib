@@ -1,0 +1,14 @@
+[project]
+name = "my-math-lib"          # your library name on PyPI
+version = "0.1.0"
+description = "A simple math library for adding two numbers"
+authors = [
+  { name="Taha", email="mohammadtahanazir@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
