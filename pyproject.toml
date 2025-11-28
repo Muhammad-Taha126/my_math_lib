@@ -1,5 +1,5 @@
 [project]
-name = "taha-math-lib"          # your library name on PyPI
+name = "math-lib-taha"          # your library name on PyPI
 version = "0.1.0"
 description = "A simple math library for adding two numbers"
 authors = [
