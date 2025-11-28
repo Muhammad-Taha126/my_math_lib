@@ -1,6 +1,6 @@
 [project]
 name = "math-lib-taha"          # your library name on PyPI
-version = "0.1.0"
+version = "0.2.0"
 description = "A simple math library for adding two numbers"
 authors = [
   { name="Taha", email="mohammadtahanazir@gmail.com" }
